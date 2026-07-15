@@ -25,7 +25,6 @@ Maintain a well-documented portfolio of AI projects
 📂 Current Projects
 
 Project	Status
-AI Image Captioning	✅ Completed
 AI Language Translator	✅ Completed
 More Projects	🚧 Coming Soon
 👩‍💻 Author
