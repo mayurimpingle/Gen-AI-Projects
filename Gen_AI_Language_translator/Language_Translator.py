@@ -2,7 +2,8 @@ from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
 import torch
 import gradio as gr
 
-model_name = "facebook/m2m100_1.2B"
+model_name = "facebook/m2m100_418M"
+
 model = M2M100ForConditionalGeneration.from_pretrained(model_name)
 tokenizer = M2M100Tokenizer.from_pretrained(model_name)
 
